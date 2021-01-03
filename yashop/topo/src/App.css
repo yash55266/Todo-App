@@ -1,0 +1,22 @@
+.ok{
+border:2px grey solid;
+border-radius:6px;
+width:50%;
+position:relative;
+left:350px;
+top:100px;
+}
+.top{
+position:relative;
+left:600px;
+}
+body{
+background:$red-600;
+background: linear-gradient(to right, rgb(70, 88, 71), rgba(89,0,60,1));
+}
+.con{
+position:relative;
+left:550px;
+top:50px;
+
+}
